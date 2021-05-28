@@ -33,7 +33,7 @@ Tabela de conteúdos
 
 ## 🎨 Layout
 
-## Veja a aplicação funcionando
+### Veja a aplicação funcionando
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img title="Preview da página da aplicação" src="./src/assets/screenshot/goRestaurant.gif" width="600px" alt="Preview da página da aplicação" />
