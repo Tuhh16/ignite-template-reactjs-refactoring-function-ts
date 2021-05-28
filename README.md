@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-     <img title="Icone dt money" src="./public/logo.svg" width="308" height="62" alt="GoRestaurant">
+     <img title="Icone dt money" src="./src/assets/logo.svg" width="308" height="62" alt="GoRestaurant">
 </h1>
 
 <p align="center">  
@@ -17,6 +17,7 @@ Tabela de conteúdos
 <!--ts-->
    * [Sobre o projeto](#-sobre-o-projeto)
    * [Layout](#-layout)
+     * [Veja a aplicação funcionando](#veja-a-aplicacao-funcionando)
      * [Web](#web)
    * [Como executar o projeto](#-como-executar-o-projeto)
    * [Tecnologias](#-tecnologias)
@@ -32,12 +33,18 @@ Tabela de conteúdos
 
 ## 🎨 Layout
 
+## Veja a aplicação funcionando
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img title="Preview da página da aplicação" src="./src/assets/screenshot/goRestaurant.gif" width="600px" alt="Preview da página da aplicação" />
+</p>
+
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img title="Preview da página da aplicação" src="./public/screenshot/preview-app.jpg" width="400px" alt="Preview da página da aplicação" />
-  <img title="Preview do modal para adicionar um novo prato" src="./public/screenshot/preview-novo-prato.jpg" width="400px" alt="Preview do modal para adicionar um novo prato" />
-  <img title="Preview do modal para editar um prato" src="./public/screenshot/preview-editar-prato.jpg" width="400px" alt="Preview do modal para editar um prato" />
+  <img title="Preview da página da aplicação" src="./src/assets/screenshot/preview-app.jpg" width="400px" alt="Preview da página da aplicação" />
+  <img title="Preview do modal para adicionar um novo prato" src="./src/assets/screenshot/preview-novo-prato.jpg" width="400px" alt="Preview do modal para adicionar um novo prato" />
+  <img title="Preview do modal para editar um prato" src="./src/assets/screenshot/preview-editar-prato.jpg" width="400px" alt="Preview do modal para editar um prato" />
 </p>
 
 ## 🚀 Como executar o projeto
