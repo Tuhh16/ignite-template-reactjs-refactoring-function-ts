@@ -17,7 +17,7 @@ Tabela de conteúdos
 <!--ts-->
    * [Sobre o projeto](#-sobre-o-projeto)
    * [Layout](#-layout)
-     * [Veja a aplicação funcionando](#-veja-a-aplicacao-funcionando)
+     * [Veja a aplicação funcionando](#-veja-a-aplicação-funcionando)
      * [Web](#web)
    * [Como executar o projeto](#-como-executar-o-projeto)
    * [Tecnologias](#-tecnologias)
