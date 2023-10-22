@@ -96,8 +96,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   **[ReactJs](https://pt-br.reactjs.org/)**
 -   **[TypeScript](https://www.typescriptlang.org/)**
 
-> Veja o arquivo  [package.json](https://github.com/Tuhh16/ignite-template-reactjs-refactoring-function-ts/blob/master/package.json)
-
 ---
 
 ## 📝 Licença
